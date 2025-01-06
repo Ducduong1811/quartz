@@ -1,4 +1,4 @@
-![](image/Pasted%20image%2020250106165949.png)
+![](Pasted%20image%2020250106165949.png)
 Will the AI start to deliver their promise?
 
 The spending on AI data centers between 2024 and 2027 is expected to exceed $1.4 trillions. Yet few AI startups are turning a profit. As the cost of these start-ups are mounting, yet their deliveries are somewhat limited. AI companies are racing to make their AI more efficient, useful before investors losing their enthusiasm.
