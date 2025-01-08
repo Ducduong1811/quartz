@@ -1,0 +1,39 @@
+# DePIN Overview
+- DePIN = Decentralized Physical Infrastructure Networks that use crypto-incentives to efficiently **coordinate the buildout & operation of critical infrastructure on top of public blockchains**.
+- **DePIN sectors include following sectors (non-exhaustive)**, that build on top of blockchain:
+	- Wireless
+	- Energy
+	- Compute
+	- Sensors
+	- Logistics
+	- Identity
+[DePIN Sectors built on top blockchains](Pasted%20image%2020250107144007.png)
+- **DePIN empowers & incentivizes people to improve public infrastructure around them**. It transfers wealth & power back to citizens & communities. The infrastructure may include:
+	- Digital maps
+	- Energy grid
+	- AI
+	- Telcos
+	- Datacenters
+	- Power plants
+	- Carbon credits
+	- Home internet
+	- Food delivery
+	- Knowledge work
+	- Ride-sharing
+	- Advertising
+	- Mobility
+	- Health & Fitness
+	- Pets & Livestock
+- DePIN is how the majority of humanity will onboard onto the crypto economy.
+- DePIN is like AGI reaching back in time to create the resources it needs to thrive.
+- Generating a 5-second video today costs >$0.10 in compute, electricity & bandwidth. Advanced AIs will demand these digital commodities at an unimaginable scale.
+	- ![What does it take to generate a 5-second video?](Pasted%20image%2020250107145052.png)
+- **DePIN is the first triple-point business model capable of spawning $10T+ networks**. DePIN Flywheels combine the economies of scale of traditional infrastructure (1), with the network effects of a tech platform (2), and the liquidity moats of a currency (3).
+	- ![DePIN Flywheel](Pasted%20image%2020250107152218.png)
+- **DePIN is in its earliest innings with <0.1% market share of $1T+ end-markets**. DePIN will grow 100-1000x over the next decade as networks win market share from centralized corporations with slower, less reliable and less dynamic offerings.
+	- ![Six categories of DePIN based on the core job-to-be-done of each network: compute, wireless, sensors, identity, energy & logistics](Pasted%20image%2020250107151410.png)
+# DePIN Supply
+- Most DePINs combine light nodes for low onboarding friction & new user acquisition with heavy nodes for stronger and more reliable network performance.
+	- ![How projects onboard users](Pasted%20image%2020250107160859.png)
+- More than 13 million devices globally contribute to DePINs every single day. Twenty DePINs grew to >100k active nodes in 2024, five of which are now above 1m nodes
+	- ![](Pasted%20image%2020250107161215.png)
